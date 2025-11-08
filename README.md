@@ -1,8 +1,8 @@
 <div align="center">
 	<h1>
-	<img src="https://i.postimg.cc/02VgrtLg/IMG-20251108-WA0002.jpg" alt="LMMS Logo"><br>LMMS
+	<img src="https://i.postimg.cc/02VgrtLg/IMG-20251108-WA0002.jpg" alt="LMMS Logo"><br>PHASE
 	</h1>
-	<p>Cross-platform music production software</p>
+	DAW PHASE</p>
 	<p>
 		<a href="https://lmms.io/">Website</a>
 		⦁︎
