@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-	<img src="https://i.postimg.cc/RhCfFVHq/recycle-triangle-2-svg-by-Vexels.jpg" alt="LMMS Logo"><br>LMMS
+	<img src="https://i.postimg.cc/02VgrtLg/IMG-20251108-WA0002.jpg" alt="LMMS Logo"><br>LMMS
 	</h1>
 	<p>Cross-platform music production software</p>
 	<p>
